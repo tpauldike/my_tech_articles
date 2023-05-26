@@ -82,7 +82,7 @@ ALX is very detailed, pay attention to every detail, otherwise you'll waste your
 
 Celebrate your small wins. Set your priorities right. Be disciplined and diligent. When you feel overwhelmed, take a small part of the problem and get it solved and take another small part and continue solving. Missing first and second deadlines doesn't mean failure, don't be scared of missing them *sometimes "while you're learning **(if you're learning)**"*
 
-Lastly, **ATTEND LIVE LEARNING & WALK-IN SESSIONS** whether or not you understand what they are talking there, just be attentive.
+Lastly, **ATTEND LIVE LEARNING SESSIONS & WALK-IN SESSIONS** whether or not you understand what they are talking there, just be attentive.
 
 If you've got enough time to play some audio (on the go, or with rapt attention), I explained some of these things on [this Twitter space](https://twitter.com/i/spaces/1MnGnpEbDlVxO)
 
