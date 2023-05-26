@@ -45,7 +45,7 @@ This is the point where you have to be biased in the rest of your research, beca
 
 Enjoy the pressure and adapt to it, do not let it weigh you down; ALX projects will usually not feel easy, honestly. Be conscious of the fact that; *if you passed the checkers and couldn't reproduce the results shown as examples on the intranet, you did not learn it*.
 
-### 7. Try Every Means but Don't Cheat
+### 7. Try Every Means but Don't Cheat Yourself
 Our codes are not hidden and I believe that it is no offense to look at someone else's codes on GitHub. You just might find what you've been getting wrong, if you've really put in your best; do not wait until you're exhausted before you do this. Discipline yourself to not cheat yourself. Try to understand what is making that person's code work and try to reproduce the same result, re-write the codes on your own, this is something you cannot do if you didn't study.
 
 You put your carreer and future in danger when you resort to cheating yourself, copying codes that you don't know how they came about, pasting them and having great scores. Sometimes, overlook the project deadlines and just learn and stop feeling like all your peers are better than you, they are all feeling the hardness of the program, even the ones that were already software engineers before they enrolled in the program.
