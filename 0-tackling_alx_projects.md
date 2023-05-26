@@ -66,15 +66,15 @@ But before you ask any of these persons, ensure that you:
 1. show respect for their time, do not feel entitled to their help.
 2. do not feel like you're bugging them, every good fellow will always want to help you out.
 3. make your best efforts to learn the basic concepts and to get the task done.
-4. state the project and task, don't give your helper that assignment.
+4. state the project and the task, don't give your helper that assignment.
 5. present the problem, what you have tried that did not work, and the error(s) you're getting.
 
 And stop thinking that someone knows it just because he is in a senior cohort, that mindset will frustrate you. You may know something that someone in a earlier cohort does not know. Even the ALX mentors do not know it all. Everyone is learning. Have that mindset of "we are learning together, and I could be of help to this my helper one day".
 
 ### 9. Dare to Make PLD (Peer Learning Day) Sessions Work
-Teach the little you know, even when you're not through with your project, no one will punish you for not knowing it all, or for making some mistakes while teaching. Stop waiting for someone else to make the first move, that's why several buddy groups are inactive, it takes courage to lead your peers. You'll be amazed how someone that knows more than you do but lacks the confidence or the opportunity (due to time constraints) to lead will join your session and correct some of the things you're saying or make some contributions that will make you learn more.
+Teach the little you know, even when you're not through with your project, no one will punish you for not knowing it all, or for making some mistakes while teaching. Stop waiting for someone else to make the first move, that's why several buddy groups are inactive, it takes courage to lead your peers. You'll be amazed how someone that knows more than you do but lacks the confidence or the opportunity (due to time constraints) to lead will join your session and correct some of the things you're saying or make some contributions that will make you learn more. And you might as well be so surprised at the number of persons that are much more confused than you are, who will start seeing a saviour in you already.
 
-Now, it doesn't have to be a formal PLD session, you can just teach anyone and anything, the **Feyman Learning Technique** really works. Just teach it. Answer questions on WhatsApp groups, Slack, Telegram or wherever your peers are found, help your peers out when they're looking for the help that you can give and even the help that you think you cannot give. Fight the lack of confidence by taking the scary bold steps.
+Now, it doesn't have to be a formal PLD session, you can just teach anyone and anything, the **Feyman Learning Technique** really works. Just teach it. Answer questions on WhatsApp groups, Slack, Telegram or wherever your peers are found, help your peers out when they're looking for the help that you can give and even the help that you think you cannot give. Fight lack of confidence by taking the 'scary' bold steps.
 
 ### 10. Rest While Working
 Deliberately take some break, especially when you feel frustrated. Don't give the negative thoughts that space in your heart. You will not feel good at such times but some break will really help. Do something else, maybe a hobby, and return later to the work. If you find yourself angry with ALX and her structure, it's normal, just go and rest and forget about the work for a while, but come back to it later.
