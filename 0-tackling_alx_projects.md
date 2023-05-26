@@ -45,9 +45,14 @@ This is the point where you have to be biased in the rest of your research, beca
 
 Enjoy the pressure and adapt to it, do not let it weigh you down; ALX projects will usually not feel easy, honestly. Be conscious of the fact that; *if you passed the checkers and couldn't reproduce the results shown as examples on the intranet, you did not learn it*.
 
-You are the only one you can cheat, do not cheat yourself and deprive yourself of the foundational knowledge that the program is designed to make you have.
+### 7. Try Every Means but Don't Cheat
+Our codes are not hidden and I believe that it is no offense to look at someone else's codes on GitHub. You just might find what you've been getting wrong, if you've really put in your best; do not wait until you're exhausted before you do this. Discipline yourself to not cheat yourself. Try to understand what is making that person's code work and try to reproduce the same result, re-write the codes on your own, this is something you cannot do if you didn't study.
 
-### 7. Try Every Means but Don't CheatThis stuff is not easy. I know some good folks in the ALX SE program who copied at some point in the program. The amazing thing now is that if you confront these men now, they can explain exactly what the codes are doing and rewrite most of them from the scratch, by themselves. So, if they don't tell you, you may never suspect that they pushed someone else's codes in this life, because they dared to learn and learn and learn. And now they're so good, solving real life problems.
+You put your carreer and future in danger when you resort to cheating yourself, copying codes that you don't know how they came about, pasting them and having great scores. Sometimes, overlook the project deadlines and just learn and stop feeling like all your peers are better than you, they are all feeling the hardness of the program, even the ones that were already software engineers before they enrolled in the program.
+
+This stuff is not easy. I know some good folks in the ALX SE program who copied at some point in the program. The amazing thing now is that if you confront these men now, they can explain exactly what the codes are doing and rewrite most of them from the scratch, by themselves. So, if they don't tell you, you may never suspect that they pushed someone else's codes in this life, because they dared to learn and learn and learn. And now they're so good, solving real life problems.
+
+You are the only one you can cheat, do not cheat yourself and deprive yourself of the foundational knowledge that the program is designed to make you have. Any aid that will make you not really learn the thing does not mean well for you.
 
 ### 8. Reachout to Others for Help
 If you get stuck, ask your peers, the program was not design for you to do it alone. Ask, and after asking, ask again, and after asking again, still ask again. Ask different persons, stop avoiding being a fool for some few seconds, don't be scared of being called the one lagging behind. Forget your age and be submissive to anyone who has something you're looking for, you may have to take some insults as well.
