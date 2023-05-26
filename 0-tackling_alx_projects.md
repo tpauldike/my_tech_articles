@@ -1,7 +1,7 @@
 # How to Tackle ALX Projects
 ## Preamble
 Here are some of my strategies and how I am able to thrive. I don't know it all, I don't get the chance to always implement these, but I've found out, from personal experience, that being principled works. The following are my recommended way of tackling ALX projects.
-## Steps Highlighted
+## The Steps Highlighted
 ### 1. Look at the General Objectives
 The ALX Software Engineering program is well planned, such that; everything you see on the intranet has a meaning and a purpose; if you learn how to follow, you will accomplish a lot, beyond beating deadlines and passing the checkers.
 Pay attention to what have been stated on the intranet as the things you are expected to learn while doing the project. Stop being unnecessarily frightened, face your fears and they will gradually vanish. Focus on what you want to achieve, not on how big the challenge is, take one step at a time.
@@ -51,6 +51,7 @@ The 3 set of persons you should ask are:
 - fellow cohort members
 - senior cohort members
 - ALX mentors for your cohort
+
 But before you ask any of these persons, ensure that you:
 1. show respect for their time, do not feel entitled to their help.
 2. do not feel like you're bugging them, every good fellow will always want to help you out.
@@ -71,5 +72,5 @@ Celebrate your small wins. Set your priorities right. Be disciplined and diligen
 
 If you've got enough time to play some audio (probably on the go), I explained some of these things on [this Twitter space](https://twitter.com/i/spaces/1MnGnpEbDlVxO)
 
-I also have on YouTube a video titled: [How I Stayed Motivated...](https://www.youtube.com/playlist?list=PLU10dryLOLEEh4f5cEsx68yR4y8GWLSNS), you may want to watch it to get fired up.
+I also have on YouTube a video titled: [How I Stayed Motivated...](https://youtu.be/FESA5HIAaeg), you may want to watch it to get fired up.
 ###### Do not give up!
