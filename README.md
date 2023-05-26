@@ -11,7 +11,7 @@ Enrolling for the program with zero knowledge of coding or programming is not at
 I ordered the contents of the repository by having them numbered from 0, using numbers in base 16 (0 - f) as the prefixes of the names.
 
 The articles or piece of writings are as follows:
-### 0. [How to Tackle ALX Projects](./0-tackling_alx_projects)
+### 0. [How to Tackle ALX Projects](./0-tackling_alx_projects.md)
 Here, I exposed the things I learned, thinking it could be helpful to someone out there. I'm aware that the same thing may not work for all of us, but then, life is governed by principles.
 
 ###### *More to come...*
