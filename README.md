@@ -1,4 +1,5 @@
 # The Journey of an **ALX** Newbie
+![the_journey_of_an_alx_newbie](https://github.com/tpauldike/rough_work/blob/main/designs/My_ALX_Journey.jpg)
 ## About the Repository
 The repository is about giving tips and hints that will inspire, motivate and guide my fellow ALX Software Engineering students, based on certain principles and personal experiences, hoping to be the reason why someone out there did not give up on venturing into the tech industry and solving real life problems.
 In this repository are different articles or piece of writings that answers certain questions that I've been frequently asked by peers
