@@ -37,7 +37,7 @@ If, by this time, you haven't seen the main project tasks, you will be enjoying 
 ![4_errors](https://github.com/tpauldike/rough_work/blob/main/screenshots/submit_answers.png)
 Let the evaluation quiz for the project show how much you understand about some of the basic concepts of the topic(s) covered in the project. In order not to get into the trouble of answering all the quiz and not being able to identify the one that was not correctly answered, do this:
 - Answer no. 0
-- Scroll down and click the `submit answers` button to confirm that you answered no. 0 correctly before you answer the next one
+- Scroll down and click the `Submit answers` button to confirm that you answered no. 0 correctly before you answer the next one
 
 For example, if you have 5 quiz questions, they will be numbered from 0 to 4, when you answer question 0 and click on submit, if you're answer is wrong, the error message will be `5 errors`, but if your answer was correct, it will show `4 errors`, then you answer question 1 and click the button again to get `3 errors` before you proceed to the next question, just like that. If you find any one hard, take note of it, skip it and answer others and come back for it later, at least you know the exact quiz question(s) that you didn't supply the correct answer(s) to; then do your Google search or ask peers.
 
