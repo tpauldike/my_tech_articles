@@ -35,7 +35,7 @@ If, by this time, you haven't seen the main project tasks, you will be enjoying 
 
 ### 5. Dare to Take the Evaluation Quiz on Your Own
 ![4_errors](https://github.com/tpauldike/rough_work/blob/main/screenshots/submit_answers.png)
-Let the evaluation quiz for the project show how much you understand about some of the basic concepts of the topic(s) covered in the project. In order not to get into the trouble of answering all the quiz and not being able to identify the one that was not correctly answered, do this:
+Let the evaluation quiz for the project show how much you understand some of the basic concepts covered by the project. In order not to get into the trouble of answering all the quiz and not being able to identify the one that was not correctly answered, do this:
 - Answer no. 0
 - Scroll down and click the `Submit answers` button to confirm that you answered no. 0 correctly before you answer the next one
 
