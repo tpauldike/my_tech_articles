@@ -4,7 +4,7 @@
 Here are some of my strategies and how I am able to thrive. I don't know it all, I don't get the chance to always implement these, but I've found out, from personal experience, that being principled works. The following are my recommended way of tackling ALX projects.
 ## Ten Steps Highlighted
 ### 1. Look at the General Objectives
-![project_general_objectives](https://github.com/tpauldike/rough_work/blob/main/screenshots/G_objectives.png)
+![project_general_objectives](https://github.com/tpauldike/rough_work/blob/main/screenshots/G_requirement.png)
 The ALX Software Engineering program is well planned, such that; everything you see on the intranet has a meaning and a purpose; if you learn how to follow, you will accomplish a lot, beyond beating deadlines and passing the checkers.
 Pay attention to what have been stated on the intranet as the things you are expected to learn while doing the project. Stop being unnecessarily frightened, face your fears and they will gradually vanish. Focus on what you want to achieve, not on how big the challenge is, take one step at a time.
 
@@ -42,7 +42,7 @@ Let the evaluation quiz for the project show how much you understand about some 
 For example, if you have 5 quiz questions, they will be numbered from 0 to 4, when you answer question 0 and click on submit, if you're answer is wrong, the error message will be `5 errors`, but if your answer was correct, it will show `4 errors`, then you answer question 1 and click the button again to get `3 errors` before you proceed to the next question, just like that. If you find any one hard, take note of it, skip it and answer others and come back for it later, at least you know the exact quiz question(s) that you didn't supply the correct answer(s) to; then do your Google search or ask peers.
 
 ### 6. Start the Project
-![general_requirement](https://github.com/tpauldike/rough_work/blob/main/screenshots/G_requirement.png)
+![general_requirement](https://github.com/tpauldike/rough_work/blob/main/screenshots/G_objectives.png)
 First of all, pay attention to all or most of the instructions written on the intranet in the **General Requirement** section. Nothing on the intranet is for fancy.
 
 This is the point where you have to be biased in the rest of your research, because at this time, you now understand what the project requires of you (to an extent) but probably do not know exactly how to implement it or solve the questions, especially after getting the easiest tasks (maybe 0 and 1) done. You can't help being project-minded at this point, because your problem now is that your checkers should be all green. Be proud of yourself, if you were able to solve one task out of five tasks, it's motivating, although it might take you some time.
