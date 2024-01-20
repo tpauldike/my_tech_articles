@@ -20,6 +20,6 @@ Let me tell you a bit about that son/daughter of mine; it doesn't matter what co
 
 ## How to Indicate your Interest
 If you really understand what you just read and think it's your God-given opportunity, I invite you to apply by
-filling [this for](); please beware that your application does not guarantee that you're the one, your attitude
+filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSeXU1YylueKKauaroB9M1us0uWxOlOGv7CWkojh2AhXvpwVlQ/viewform?pli=1); please beware that your application does not guarantee that you're the one, your attitude
 will tell how far you'll go, and if you last with me for up to 2 months, then you'll likely last with me for up to
 2 years and beyond.
