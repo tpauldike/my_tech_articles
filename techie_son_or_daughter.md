@@ -1,5 +1,5 @@
 # My Techie Son/Daughter
-> I need more than a mentee, one is enough but I don't mind having more than one*
+> *I need more than a mentee, one is enough but I don't mind having more than one*
 
 It is true that “at any level you are, someone out there is dreaming to get to that level”.
 
